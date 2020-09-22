@@ -15,4 +15,4 @@ challenge: building a classifier that can determine whether a sample is benign o
 - symmetry
 - fractal dimension
 
-binary classification model built using a large dataset of labeled biospy samples from breast cancer tumors
+Building the model: binary classification model built using a large dataset of labeled biospy samples from breast cancer tumors
